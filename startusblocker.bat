@@ -1,0 +1,2 @@
+pythonw.exe usblock.py
+
